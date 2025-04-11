@@ -24,16 +24,17 @@ list_of_files = [
     f"src/{project_name}/exception/exception_handler.py",
     f"src/{project_name}/logger/__init__.py",
     f"src/{project_name}/logger/log.py",
-    f"src/{project_name}/pipline/__init__.py",
-    f"src/{project_name}/pipeline/training_pipline.py",
+    f"src/{project_name}/pipeline/__init__.py",
+    f"src/{project_name}/pipeline/training_pipeline.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/util.py",
-   
+   "config/config.yaml",
    ".dockerignore",
    "app.py",
    "Dockerfile",
    "requirements.txt",
    "setup.py"
+   
 
 
 ]
